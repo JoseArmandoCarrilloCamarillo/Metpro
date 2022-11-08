@@ -1,8 +1,6 @@
 algoritmo holaMundo
-	Escribir "*************************************";
 	Escribir "* Algoritmo: Hola Mundo             *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
 	Escribir " ";
 	definir nombre como texto;
 	definir edad como entero;
@@ -14,7 +12,7 @@ algoritmo holaMundo
 	leer edad;
 	escribir "escribe tu email";
 	leer email;
-	escribir "escribe tu teléfono";
+	escribir "escribe tu telÃ©fono";
 	leer telefono;
-	escribir "hola ",nombre," tu edad es ",edad," tu email es",email," tu teléfono es ",telefono;
+	escribir "hola ",nombre," tu edad es ",edad," tu email es",email," tu telÃ©fono es ",telefono;
 finalgoritmo
