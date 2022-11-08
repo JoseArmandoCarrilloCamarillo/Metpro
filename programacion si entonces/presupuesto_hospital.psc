@@ -1,14 +1,11 @@
 Proceso presupuesto_hospital
 	Definir presupuesto,trauma,gine,pedi Como Real;
-	Escribir "*****************************************";
 	Escribir "* Algoritmo: presupuesto_hospital       *";
 	Escribir "* Autor: Jose Armando Carrillo C        *";
-	Escribir "*****************************************";
-	Escribir "*****************************************";
+        Escribir "*****************************************";
 	Escribir "* Ginecologia ---------------- 40%      *";
 	Escribir "* Traumotologia -------------- 30%      *";
 	Escribir "* Pediatria ------------------ 30%      *";
-	Escribir "*****************************************";
 	Escribir " ";
 	Escribir "Ingresa el presupuesto anual del hospital";
 	Leer  presupuesto;
