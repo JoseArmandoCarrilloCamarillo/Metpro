@@ -1,8 +1,6 @@
 Algoritmo doblar_numero
-	Escribir "*************************************";
 	Escribir "* Algoritmo: Doblar_numero          *";
 	Escribir "* Autor: Jose Armando Carrillo  C   *";
-	Escribir "*************************************";
 	Escribir " ";
 	Definir nm, nm2 Como Entero;
 	Escribir "Ingresa un numero "; 
