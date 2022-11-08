@@ -1,8 +1,6 @@
 Proceso Ganacia_de_articulo
-	Escribir "*************************************";
 	Escribir "* Algoritmo Ganacia_de_articulo     *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
 	Escribir "* La ganacia de articulo es de 30%  *";
 	Escribir "*************************************";
 	Escribir " ";
