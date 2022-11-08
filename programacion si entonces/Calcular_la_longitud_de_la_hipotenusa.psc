@@ -1,8 +1,6 @@
 Proceso Calcular_la_longitud_de_la_hipotenusa
-	Escribir "****************************************************";
 	Escribir "* Algoritmo: Calcular la longitud de la hipotenusa *";
 	Escribir "* Autor: Jose Armando Carrillo C                   *";
-	Escribir "****************************************************";
 	Escribir " ";
 	definir a,b,c Como Real;
 	Escribir "Ingresa el valor del cateto a ";
