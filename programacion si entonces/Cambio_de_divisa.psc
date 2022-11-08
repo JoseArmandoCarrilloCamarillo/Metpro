@@ -1,8 +1,6 @@
 Proceso Cambio_de_divisa
-	Escribir "*************************************";
 	Escribir "* Algoritmo: Cambio_de_divisa       *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
 	Escribir " ";
 	Definir mex, dollar, euro como real;
 	Escribir "Ingresa la cantidad en pesos mexicanos $";
