@@ -1,8 +1,6 @@
 algoritmo licencia 
-	Escribir "*************************************";
 	Escribir "* Algoritmo: Licencia               *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
 	Escribir " ";
 	definir nolicencia, apellido, nombre, fechanac, domicilio, sexo, nacionalidad, otorgamiento, categoria, clase como texto;
 	escribir " Ingresa tus datos de la licencia";
@@ -30,7 +28,7 @@ algoritmo licencia
 	
 	escribir "Datos de Licencia Nacional de Conducir";
 	escribir "_______________";
-	escribir "LICENCIA N° ", nolicencia;
+	escribir "LICENCIA NÂ° ", nolicencia;
 	
 	escribir "Sexo ", sexo;
 	
