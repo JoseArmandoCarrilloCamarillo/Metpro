@@ -1,8 +1,6 @@
 algoritmo compra_tienda
-	Escribir "*************************************";
 	Escribir "* Algoritmo: compra_tienda          *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
 	Escribir " ";
 	definir compra como real;
 	definir descuento como real;
