@@ -2,7 +2,6 @@ Proceso Ganacia_de_articulo
 	Escribir "* Algoritmo Ganacia_de_articulo     *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
 	Escribir "* La ganacia de articulo es de 30%  *";
-	Escribir "*************************************";
 	Escribir " ";
 	definir articulo, ganacia, precio Como Real;
 	Escribir "Ingresa el precio del articulo $ ";
