@@ -1,12 +1,9 @@
 Algoritmo cuadratica
 	Definir a,b,c como Entero;
-	Escribir "*************************************";
 	Escribir "* Algoritmo: Cuadratica             *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
-	Escribir "* Programa de SoluciÛn de EcuaciÛn **";
-	Escribir "* Cuadr·tica                        *";
-	Escribir "*************************************";
+	Escribir "* Programa de Soluci√≥n de Ecuaci√≥n **";
+	Escribir "* Cuadr√°tica                        *";
 	Escribir " ";
 	Escribir "Ingresa A:";
 	Leer a;
