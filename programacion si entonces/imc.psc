@@ -1,8 +1,6 @@
 Proceso imc
-	Escribir "*************************************";
 	Escribir "* Algoritmo IMC de una persona      *";
 	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
 	Escribir " ";
 	Definir indice,talla, kg Como Real;
 	Escribir "Ingresa tu masa en kilogramos ";
