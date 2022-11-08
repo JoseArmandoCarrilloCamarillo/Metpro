@@ -1,13 +1,11 @@
 Proceso Frecuencia_Cardiaca
-	Escribir "*************************************";
-	Escribir "* Algoritmo: Frecuencia_Cardiaca    *";
-	Escribir "* Autor: Jose Armando Carrillo C    *";
-	Escribir "*************************************";
+	Escribir " Algoritmo: Frecuencia_Cardiaca    ";
+	Escribir " Autor: Jose Armando Carrillo C    ";
 	Escribir " ";
 	definir edad, imp, fcm  Como Entero;
 	Escribir "Ingresa tu edad actual";
 	Leer edad;
-	Si expresion_logica Entonces
+	Si edad ≥ 0 Entonces
 		imp <- 220;
 		fcm <- imp - edad;
 		Escribir "";
